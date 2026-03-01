@@ -1,0 +1,6 @@
+{
+  "name": "ROS2 Humble",
+  "image": "ubuntu:22.04",
+  "features": {},
+  "postCreateCommand": "apt update && apt install -y curl git software-properties-common"
+}
